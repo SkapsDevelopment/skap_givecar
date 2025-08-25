@@ -5,6 +5,8 @@
 
 ---
 
+JOIN OUR DISOCORD: https://discord.gg/hMMMDpXHJm
+
 ## :sparkles: Features
 - :white_check_mark: **OX Menu** integration – clean and user-friendly
 - :white_check_mark: Select **player**, **vehicle model**, and **license plate**
