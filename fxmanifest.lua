@@ -9,12 +9,6 @@ escrow_ignore {
     'locales/*.lua'
 }
 
-shared_scripts {
-    '@ox_lib/init.lua',
-    'config.lua',
-    'locales.lua'
-}
-
 server_scripts {
     '@mysql-async/lib/MySQL.lua',
     'server.lua'
